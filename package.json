@@ -1,0 +1,19 @@
+{
+  "name": "export_project_data",
+  "version": "1.0.0",
+  "description": "to export data from this module",
+  "main": "module1.js",
+  "type": "module",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "Shanmukha",
+  "license": "UNLICENSED"
+}
