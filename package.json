@@ -1,18 +1,19 @@
 {
   "name": "export_project_data",
   "version": "1.0.0",
-  "description": "to export data from this module",
+  "description": "A module to export data for use in other projects",
   "main": "module1.js",
   "type": "module",
   "scripts": {
-    "test": "\"\""
+    "test": "echo \"No tests specified\" && exit 0"
   },
   "repository": {
     "type": "git",
-    "url": "\"\""
+    "url": "https://github.com/shanmuka089/export_project_data.git"
   },
   "keywords": [
-    "\"\""
+    "export",
+    "module"
   ],
   "author": "Shanmukha",
   "license": "UNLICENSED"
